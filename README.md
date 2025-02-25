@@ -1,9 +1,5 @@
 <h1 align="center">Максим Катаев</h1>
 <h3 align="center">.NET backend разработчик | Активно изучаю Angular</h3>
-
-<p align="center">
-  <img src="">
-</p>
 <p align="center">
   Обладаю навыками проектирования API, работы с базами данных и опытом развертывания приложений. Имею опыт разработки Android приложений на Java.
 </p>
