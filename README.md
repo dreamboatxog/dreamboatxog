@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Максим Катаев</h1>
+<h3 align="center">.NET backend разработчик | Активно изучаю Angular</h3>
 
-<!--
-**dreamboatxog/dreamboatxog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="">
+</p>
+<p align="center">
+  Обладаю навыками проектирования API, работы с базами данных и опытом развертывания приложений. Имею опыт разработки Android приложений на Java.
+</p>
+<p align="center">
+  <a href="https://t.me/DREAMBOATXOG" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻️ Стек технологий:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=signalr&logoColor=white" alt="SignalR"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+</p>
+
+
+---
+### 👀️ Текущий проект:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamboatxog&repo=datingapp&theme=material-palenight)](https://github.com/dreamboatxog/datingapp)
+<p align="center">
+
+### 📈 Cтатистика:
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamboatxog&show_icons=true&theme=material-palenight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboatxog&layout=compact&theme=material-palenight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dreamboatxog&label=Просмотры+профиля&color=bb8ade&style=for-the-badge" alt="Просмотры профиля"/>
+</p>
