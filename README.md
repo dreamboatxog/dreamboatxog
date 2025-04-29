@@ -31,7 +31,7 @@
 
 ---
 ### 👀️ Текущий проект:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamboatxog&repo=datingapp&theme=material-palenight)](https://github.com/dreamboatxog/datingapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamboatxog&repo=datingapp&theme=material-palenight)](https://github.com/dreamboatxog/VideoHosting)
 <p align="center">
 
 ### 📈 Cтатистика:
