@@ -1,5 +1,5 @@
 <h1 align="center">Максим Катаев</h1>
-<h3 align="center">.NET backend разработчик | Активно изучаю Angular</h3>
+<h3 align="center">.NET backend разработчик</h3>
 <p align="center">
   Обладаю навыками проектирования API, работы с базами данных и опытом развертывания приложений. Имею опыт разработки Android приложений на Java.
 </p>
@@ -30,15 +30,14 @@
 
 
 ---
-### 👀️ Текущий проект:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamboatxog&repo=VideoHosting&theme=material-palenight)](https://github.com/dreamboatxog/VideoHosting)
+### Текущий проект:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dreamboatxog&repo=VideoHosting&theme=transparent)](https://github.com/dreamboatxog/VideoHosting)
 <p align="center">
 
-### 📈 Cтатистика:
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamboatxog&show_icons=true&theme=material-palenight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboatxog&layout=compact&theme=material-palenight" alt="Top Languages"/>
+### Cтатистика:
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamboatxog&show_icons=true&theme=transparent" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dreamboatxog&label=Просмотры+профиля&color=bb8ade&style=for-the-badge" alt="Просмотры профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=dreamboatxog&label=Просмотры+профиля&color=grey&style=for-the-badge" alt="Просмотры профиля"/>
 </p>
